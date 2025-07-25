@@ -1,4 +1,5 @@
-The word document that explains my strategy and what i have been doing:  [new_report.docx](https://github.com/user-attachments/files/21427886/new_report.docx)
+The word document that explains my strategy and what i have been doing: [new_report.docx](https://github.com/user-attachments/files/21428080/new_report.docx)
+
 
 
 the wandb logs:https://wandb.ai/krkcdeniz15-university-of-twente/Reacher-Donut-Shaped?nw=nwuserkrkcdeniz15
